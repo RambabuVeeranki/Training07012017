@@ -1,0 +1,4 @@
+Echo "welocome to git hub"
+A=10  
+B=20
+Echo "Addition A and B"
